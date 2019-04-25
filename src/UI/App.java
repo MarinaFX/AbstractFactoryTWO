@@ -5,6 +5,7 @@ import MSystem.Pizzaiolo;
 import MSystem.Pizzaria;
 
 import java.time.LocalDate;
+import java.time.format.DateTimeFormatter;
 import java.util.Scanner;
 
 /**
@@ -18,14 +19,18 @@ import java.util.Scanner;
  * e imprima os ingredientes da pizza que é feita no dia ou, se a pizzaria estiver fechada, informe isso na tela.
  * Agora imagine que a pizzaria agora faz também calzones (novamente, de calabresa ou presunto).
  * Complemente a solução com mais este componente.
+ * Link usado para formatar input de YYYY-MM-DD para DD-MM-YYYY:
+ * https://stackoverflow.com/questions/8746084/string-to-localdate
  */
 
 public class App {
 
     private static LocalDate recebeData(){
         Scanner in = new Scanner(System.in);
-        LocalDate resposta = LocalDate.parse(in.nextLine());
-        return resposta;
+        DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd/MM/yyyy");
+        String resposta = in.nextLine();
+        LocalDate data = LocalDate.parse(resposta, formatter);
+        return data;
     }
 
     public static void main(String[] args) {

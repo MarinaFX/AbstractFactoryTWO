@@ -19,10 +19,7 @@ public class Pizzaria {
     }
 
     private void setEstaFuncionando() {
-        if (diaDaSemana.equals(DayOfWeek.SUNDAY))
-            estaFuncionando = false;
-        else
-            estaFuncionando = true;
+        estaFuncionando = !diaDaSemana.equals(DayOfWeek.SUNDAY);
     }
 
     public Pizzaiolo fazPedido() {
