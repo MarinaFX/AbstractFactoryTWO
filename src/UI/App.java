@@ -42,8 +42,9 @@ public class App {
 
 
         System.out.println("Bem vindo!");
-        System.out.println("Informe uma data: ");
+        System.out.print("Informe uma data no formato dd/mm/yyyy: ");
         data = recebeData();
+        System.out.println();
         pizzaria = new Pizzaria(data);
 
         try {

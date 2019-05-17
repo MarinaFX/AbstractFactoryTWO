@@ -9,10 +9,12 @@ public class Pizza {
 
     public void mostraSabor(){
         if (saborDaPizza.equals(Sabor.CALABRESA)){
+            System.out.println("Ingredientes de hoje: ");
             System.out.println("(queijo + calabresa + tomate)");
         }
         else{
             if (saborDaPizza.equals(Sabor.PRESUNTO)){
+                System.out.println("Ingredientes de hoje: ");
                 System.out.println("(queijo + presunto + tomate)");
             }
             else{

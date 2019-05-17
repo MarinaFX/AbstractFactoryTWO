@@ -4,19 +4,8 @@
     <list default="true" id="6a318a76-3ed9-4ed9-89a9-495277d7cdae" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AbstractFactoryTWO/Factories/ConcretePizzaFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AbstractFactoryTWO/Factories/ConcretePizzaFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AbstractFactoryTWO/Factories/ConcretePizzaioloFactory$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AbstractFactoryTWO/Factories/ConcretePizzaioloFactory$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AbstractFactoryTWO/Factories/ConcretePizzaioloFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AbstractFactoryTWO/Factories/ConcretePizzaioloFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AbstractFactoryTWO/Factories/PizzaFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AbstractFactoryTWO/Factories/PizzaFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AbstractFactoryTWO/Factories/PizzaioloFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AbstractFactoryTWO/Factories/PizzaioloFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AbstractFactoryTWO/MSystem/Pizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AbstractFactoryTWO/MSystem/Pizza.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AbstractFactoryTWO/MSystem/Pizzaiolo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AbstractFactoryTWO/MSystem/Pizzaiolo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AbstractFactoryTWO/MSystem/PizzaioloCalabresa.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AbstractFactoryTWO/MSystem/PizzaioloCalabresa.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AbstractFactoryTWO/MSystem/PizzaioloPresunto.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AbstractFactoryTWO/MSystem/PizzaioloPresunto.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AbstractFactoryTWO/MSystem/Pizzaria.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AbstractFactoryTWO/MSystem/Pizzaria.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AbstractFactoryTWO/MSystem/Sabor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AbstractFactoryTWO/MSystem/Sabor.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/AbstractFactoryTWO/UI/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AbstractFactoryTWO/UI/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MSystem/Pizzaria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MSystem/Pizzaria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MSystem/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MSystem/Pizza.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/UI/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UI/App.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -26,31 +15,56 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-872182279">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="56" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="56" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/UI/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="30" column="40" lean-forward="true" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="460">
+              <caret line="45" column="28" lean-forward="true" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MSystem/Pizzaria.java">
+        <entry file="file://$PROJECT_DIR$/src/MSystem/Pizza.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="320">
+              <caret line="16" column="61" selection-start-line="16" selection-start-column="61" selection-end-line="16" selection-end-column="61" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#380#381#0" expanded="true" />
-                <element signature="e#418#419#0" expanded="true" />
-                <element signature="e#459#460#0" expanded="true" />
-                <element signature="e#530#531#0" expanded="true" />
+                <element signature="e#121#122#0" expanded="true" />
+                <element signature="e#168#169#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -82,13 +96,19 @@
         <option value="$PROJECT_DIR$/src/Factories/PizzaioloFactory.java" />
         <option value="$PROJECT_DIR$/src/Factories/ConcretePizzaioloFactory.java" />
         <option value="$PROJECT_DIR$/src/MSystem/Pizzaiolo.java" />
-        <option value="$PROJECT_DIR$/src/MSystem/Pizza.java" />
         <option value="$PROJECT_DIR$/src/MSystem/PizzaioloPresunto.java" />
         <option value="$PROJECT_DIR$/src/MSystem/PizzaioloCalabresa.java" />
         <option value="$PROJECT_DIR$/src/MSystem/Pizzaria.java" />
         <option value="$PROJECT_DIR$/src/UI/App.java" />
+        <option value="$PROJECT_DIR$/src/MSystem/Pizza.java" />
       </list>
     </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
@@ -102,8 +122,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -116,16 +134,37 @@
               <item name="AbstractFactoryTWO" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="AbstractFactoryTWO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AbstractFactoryTWO" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Factories" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AbstractFactoryTWO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AbstractFactoryTWO" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="MSystem" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AbstractFactoryTWO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AbstractFactoryTWO" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="UI" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556236037488" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558101679920" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -179,14 +218,15 @@
       <workItem from="1556060311860" duration="1482000" />
       <workItem from="1556233275102" duration="142000" />
       <workItem from="1556234065405" duration="1970000" />
+      <workItem from="1558101430866" duration="270000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20287000" />
+    <option name="totallyTimeSpent" value="20557000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
@@ -194,7 +234,7 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Learn" order="3" />
       <window_info id="Capture Tool" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.17191978" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.17377399" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="0" />
@@ -258,27 +298,12 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/MSystem/CalabresaPizza.java" />
-    <entry file="file://$PROJECT_DIR$/src/MSystem/Sabor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/time/LocalDate.java" />
-    <entry file="file://$PROJECT_DIR$/src/MSystem/Pizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#121#122#0" expanded="true" />
-            <element signature="e#168#169#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/MSystem/PizzaioloCalabresa.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -352,24 +377,38 @@
     <entry file="file://$PROJECT_DIR$/src/MSystem/Pizzaria.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#380#381#0" expanded="true" />
             <element signature="e#418#419#0" expanded="true" />
             <element signature="e#459#460#0" expanded="true" />
-            <element signature="e#530#531#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MSystem/Sabor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MSystem/Pizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="61" selection-start-line="16" selection-start-column="61" selection-end-line="16" selection-end-column="61" />
+          <folding>
+            <element signature="e#121#122#0" expanded="true" />
+            <element signature="e#168#169#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/UI/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="30" column="40" lean-forward="true" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="460">
+          <caret line="45" column="28" lean-forward="true" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="28" />
         </state>
       </provider>
     </entry>
