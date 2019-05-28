@@ -1,6 +1,7 @@
-Abstract Factory
+# Abstract Factory
 
-Exercício 1.2
+### Exercício 1.2
+
 Considere os seguintes conceitos do mundo real: pizzaria, pizzaiolo, pizza, consumidor. Considere ainda que
 em uma determinada pizzaria, dois pizzaiolos se alternam. Um deles trabalha segundas, quartas e sextas e
 só sabe fazer pizza de calabresa (queijo + calabresa + tomate), o outro trabalha terças, quintas e sábados e
